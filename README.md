@@ -3,4 +3,4 @@ Exceptional Realty Group Website
 
 # Description
 
-This is an example site for hte Exceptional Realty Group.
+This is an example site for the Exceptional Realty Group.
